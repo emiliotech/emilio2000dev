@@ -1,6 +1,6 @@
 👋 Hi, My name is Emilio Senguana
 --
-Front end developer
+Web developer
 --
 - 🌍 I'm from Ecuador
 - ✉️ You can contact me at sengua2017@gmail.com
@@ -36,9 +36,21 @@ Front end developer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;">
   </a>
   
+   
+  <a href="" rel="nofollow">
+    <img src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png" width="36" height="36" alt="C#" style="max-width: 100%;">
+  </a>
+  
   
 </p>
 
+#### **Socials**
+<p align="left">
+  <a href="https://www.linkedin.com/in/emilio-senguana-17b020162/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;">   </a>
+  
+ 
+</p>
 <!---
 emilio2000dev/emilio2000dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
